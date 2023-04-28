@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  TableList
 //
-//  Created by kvelde.niklavs.ansis on 19/04/2023.
-//
 
 import UIKit
 
